@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paginaweb", "Paginaweb\Paginaweb.csproj", "{F3A67777-974E-44FF-83E2-C02AA92076AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paginaweb.Tests", "Paginaweb.Tests\Paginaweb.Tests.csproj", "{FF2808EB-8D79-462A-90A4-BA482DFC4EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seleniumtest", "Seleniumtest\Seleniumtest.csproj", "{759CAC02-9635-4DE2-897E-D5F6781ECBA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FF2808EB-8D79-462A-90A4-BA482DFC4EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2808EB-8D79-462A-90A4-BA482DFC4EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2808EB-8D79-462A-90A4-BA482DFC4EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759CAC02-9635-4DE2-897E-D5F6781ECBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759CAC02-9635-4DE2-897E-D5F6781ECBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759CAC02-9635-4DE2-897E-D5F6781ECBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759CAC02-9635-4DE2-897E-D5F6781ECBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

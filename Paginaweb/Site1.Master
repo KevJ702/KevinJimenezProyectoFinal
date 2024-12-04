@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 
 <html>
+       
 <head runat="server">
     <title></title>
 
@@ -29,6 +30,7 @@
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
+ 
 <body>
     <form id="form1" runat="server">
         <div>
@@ -68,7 +70,7 @@
                    >Ver articulos </asp:LinkButton>
                  </li>
                  <li class="nav-item active">
-     <asp:LinkButton class="nav-link" ID="LinkButton1" runat="server"
+     <asp:LinkButton class="nav-link"  href="loginUsuario.aspx" ID="LinkButton1" runat="server"
         >Inicio de sesión </asp:LinkButton>
                       </li>
                       <li class="nav-item active">
